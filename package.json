@@ -1,0 +1,24 @@
+{
+  "name": "link-dependencies",
+  "version": "0.0.1",
+  "description": "Automatically install (link) your project's link dependencies from package.json",
+  "main": "cli.js",
+  "scripts": {},
+  "bin": {
+    "link-dependencies": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/artemkaint/link-dependencies/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkaint/link-dependencies.git"
+  },
+  "keywords": [
+    "link",
+    "npm",
+    "dependencies"
+  ],
+  "author": "Artem Soltynskiy <artemkaint@gmail.com>",
+  "license": "MIT"
+}
